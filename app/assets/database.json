@@ -1,0 +1,25 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Smith",
+    "age": 25,
+    "address": {
+      "streetAddress": "21 2nd Street",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "10021"
+    }
+  },
+  {
+    "firstName": "gaurav",
+    "lastName": "Smith",
+    "age": 38,
+    "address": {
+      "streetAddress": "21 2nd budhwar peth",
+      "city": "New York redlight area",
+      "state": "NY",
+      "postalCode": "420"
+    }
+  }
+]
+
